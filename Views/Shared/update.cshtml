@@ -1,0 +1,88 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>update</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+
+    <!-- custom css file link  -->
+     <link rel="stylesheet" href="~/css/teacher.css">  
+
+</head>
+
+<body>
+
+    <header class="header">
+
+        <section class="flex">
+
+            <a href="teacher.html" class="logo">Teacher</a>
+
+
+
+            <div class="icons">
+                <div id="menu-btn" class="fa fa-sign-out"></div>
+
+            </div>
+
+
+
+        </section>
+
+    </header>
+
+    <div class="side-bar">
+
+        <div id="close-btn">
+            <i class="fas fa-times"></i>
+        </div>
+
+        <div class="profile">
+            <img src="images/pic-1.jpg" class="image" alt="">
+            <h3 class="name">Quyet</h3>
+            <p class="role">teacher</p>
+
+        </div>
+
+        <nav class="navbar">
+            <a href="teacher.html"><i class="fas fa-home"></i><span>home</span></a>
+            <a href="courses.html"><i class="fas fa-graduation-cap"></i><span>courses</span></a>
+        </nav>
+
+    </div>
+
+    <section class="form-container">
+
+        <form action="" method="post" enctype="multipart/form-data">
+            <h3>Update profile</h3>
+            <p>Name</p>
+            <input type="text" name="name" placeholder="Enter your Name" maxlength="50" class="box">
+            <p>Email</p>
+            <input type="email" name="email" placeholder="Enter your email" maxlength="50" class="box">
+            <p>Address</p>
+            <input type="address" name="address" placeholder="Enter your Address" maxlength="20" class="box">
+            <p>Phone number</p>
+            <input type="phone" name="phone" placeholder="Enter your phone number" maxlength="20" class="box">
+
+            <p>update pic</p>
+            <input type="file" accept="image/*" class="box">
+            <input type="submit" value="update profile" name="submit" class="btn">
+        </form>
+
+    </section>
+
+    <!-- custom js file link  -->
+    <script src="js/script.js"></script>
+
+
+</body>
+
+</html>

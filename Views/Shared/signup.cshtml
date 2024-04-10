@@ -1,0 +1,66 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="zxx">
+
+<head>
+    <title>Active Login form Responsive Widget Template :: W3layouts</title>
+    <!-- Meta tags -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <!-- //Meta tags -->
+    <link rel="stylesheet" href="~/css/login.css" type="text/css" media="all" />
+
+    <!-- Style-CSS -->
+    <link href="~/css/font.css" rel="stylesheet">
+    <!-- font-awesome-icons -->
+</head>
+
+<body>
+    <section class="w3l-form-36">
+        <div class="form-36-mian section-gap">
+            <div class="wrapper">
+                <div class="form-inner-cont">
+                    <h3>Login now</h3>
+                    @model SIMss.Models.RegistrationModel // Sử dụng đầy đủ tên lớp
+                    <form asp-action="Register" asp-controller="Registration" method="post" class="signin-form">
+    <div class="form-input">
+        <span class="fa fa-user" aria-hidden="true"></span>
+        <input type="text" asp-for="Name" placeholder="Name" required />
+    </div>
+    <div class="form-input">
+        <span class="fa fa-phone" aria-hidden="true"></span>
+        <input type="text" asp-for="Phone" placeholder="Phone number" required />
+    </div>
+    <div class="form-input">
+        <span class="fa fa-envelope-o" aria-hidden="true"></span>
+        <input type="email" asp-for="Email" placeholder="Email" required />
+    </div>
+    <div class="form-input">
+        <span class="fa fa-key" aria-hidden="true"></span>
+        <input type="password" asp-for="Password" placeholder="Password" required />
+    </div>
+    <div class="login-remember d-grid">
+        <label class="check-remaind">
+            <input type="checkbox" required />
+            <span class="checkmark"></span>
+            <p class="remember">I accept terms and conditions</p>
+        </label>
+        <button type="submit" class="btn theme-button">Sign up</button>
+    </div>
+</form>
+
+
+                    <p class="signup">Already a user? <a href="@Url.Action("login", "Home")" class="signuplink">Login</a></p>
+                </div>
+
+                <!-- copyright -->
+
+            </div>
+        </div>
+    </section>
+</body>
+
+</html>

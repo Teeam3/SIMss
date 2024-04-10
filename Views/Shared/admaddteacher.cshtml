@@ -1,0 +1,157 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<!-- Created by CodingLab |www.youtube.com/CodingLabYT-->
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="UTF-8">
+    <!--<title> Drop Down Sidebar Menu | CodingLab </title>-->
+    <link rel="stylesheet" href="~/css/adm.css">
+    <!-- Boxiocns CDN Link -->
+    <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.2/css/all.min.css">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div class="sidebar close">
+
+        <ul class="nav-links">
+            <li>
+                <a href="admdash.html">
+                    <i class='bx bx-grid-alt'></i>
+                    <span class="link_name">Dashboard</span>
+                </a>
+                <ul class="sub-menu blank">
+                    <li><a class="link_name" href="admdash.html">Dashboard</a></li>
+                </ul>
+            </li>
+            <li>
+                <div class="iocn-link">
+                    <a href="admstudent.html">
+                        <i class='bx bx-collection'></i>
+                        <span class="link_name">Student</span>
+                    </a>
+                    <i class='bx bxs-chevron-down arrow'></i>
+                </div>
+                <ul class="sub-menu">
+                    <li><a class="link_name" href="admstudent.html">Students</a></li>
+                    <li><a href="admstudent.html">All students</a></li>
+
+
+                </ul>
+            </li>
+            <li>
+                <div class="iocn-link">
+                    <a href="#">
+                        <i class='bx bx-book-alt'></i>
+                        <span class="link_name">Teachers</span>
+                    </a>
+                    <i class='bx bxs-chevron-down arrow'></i>
+                </div>
+                <ul class="sub-menu">
+                    <li><a class="link_name" href="#">Teachers</a></li>
+                    <li><a href="admteacher.html">All teachers</a></li>
+                    <li><a href="admaddteacher.html">Add teachers</a></li>
+
+                </ul>
+            </li>
+
+
+            <li>
+                <div class="iocn-link">
+                    <a href="#">
+                        <i class='bx bx-plug'></i>
+                        <span class="link_name">Courses</span>
+                    </a>
+                    <i class='bx bxs-chevron-down arrow'></i>
+                </div>
+                <ul class="sub-menu">
+                    <li><a class="link_name" href="#">Courses</a></li>
+                    <li><a href="admcourse.html">All courses</a></li>
+                    <li><a href="admaddcourse.html">Add course</a></li>
+                </ul>
+            </li>
+
+
+
+            <li>
+                <div class="profile-details">
+                    <div class="profile-content">
+
+                    </div>
+
+                    <i class='bx bx-log-out'></i>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <section class="home-section">
+        <div class="home-content">
+            <i class='bx bx-menu'></i>
+            <span class="text">Add teacher</span>
+        </div>
+        <div class="one">
+            <section>
+                <div class="container">
+                    <div class="contactForm">
+                        <h2>Add teacher</h2>
+                        <div class="formBox">
+                            <div class="inputBox w50">
+                                <input type="text" name="" id="" required>
+                                <span>Name</span>
+                            </div>
+                            <div class="inputBox w50">
+                                <input type="text" name="" id="" required>
+                                <span>Address</span>
+                            </div>
+                            <div class="inputBox w50">
+                                <input type="email" name="" id="" required>
+                                <span>Email</span>
+                            </div>
+                            <div class="inputBox w50">
+                                <input type="text" name="" id="" required>
+                                <span>Phone Number</span>
+                            </div>
+                            <div class="inputBox w100">
+
+                                <select class="inputBox w100" id="teacher_course" required>
+                                    <option value="">Select Course</option>
+                                    <option value="C#">C#</option>
+                                    <option value="Python">Python</option>
+                                    <option value="C++">C++</option>
+                                    <option value="C">C</option>
+                                </select>
+                            </div>
+                            <div class="inputBox w100">
+                                <input type="submit" value="Submit">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </section>
+
+
+    <script>
+        let arrow = document.querySelectorAll(".arrow");
+        for (var i = 0; i < arrow.length; i++) {
+            arrow[i].addEventListener("click", (e) => {
+                let arrowParent = e.target.parentElement.parentElement; //selecting main parent of arrow
+                arrowParent.classList.toggle("showMenu");
+            });
+        }
+        let sidebar = document.querySelector(".sidebar");
+        let sidebarBtn = document.querySelector(".bx-menu");
+        console.log(sidebarBtn);
+        sidebarBtn.addEventListener("click", () => {
+            sidebar.classList.toggle("close");
+        });
+    </script>
+</body>
+
+</html>
