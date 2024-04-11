@@ -1,0 +1,510 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\registersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\registersuccess.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\registrations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:registrations.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|c:\\users\\admin\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\team\\simss\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|c:\\users\\admin\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\team\\simss\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|c:\\users\\admin\\onedrive\\ta\u0300i li\u00EA\u0323u\\github\\team\\simss\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\admaddcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\admaddcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\adm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:wwwroot\\css\\adm.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\admaddteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\admaddteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\admcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\admcourse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\admdash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\admdash.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\admeditstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\admeditstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\admeditteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\admeditteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\admteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\admteacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\admstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\admstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:wwwroot\\css\\edit.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\student.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\teacher.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\course.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\views\\shared\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:views\\shared\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\style-starter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:wwwroot\\css\\style-starter.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:wwwroot\\css\\login.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0AB224-BA4B-40E3-9220-00D2FCE5AA2F}|SIMss.csproj|solutionrelative:models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:23:39.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:23:37.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:19:48.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:19:49.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "registrations.json",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\registrations.json",
+              "RelativeDocumentMoniker": "registrations.json",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\registrations.json",
+              "RelativeToolTip": "registrations.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-10T05:19:49.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Controllers\\RegistrationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Controllers\\RegistrationController.cs",
+              "RelativeToolTip": "Controllers\\RegistrationController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAswCYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:19:49.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegisterSuccess.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\RegisterSuccess.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\RegisterSuccess.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\RegisterSuccess.cshtml",
+              "RelativeToolTip": "Views\\Shared\\RegisterSuccess.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "admaddcourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admaddcourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\admaddcourse.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admaddcourse.cshtml",
+              "RelativeToolTip": "Views\\Shared\\admaddcourse.cshtml",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:47.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "admeditstudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admeditstudent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\admeditstudent.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admeditstudent.cshtml",
+              "RelativeToolTip": "Views\\Shared\\admeditstudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:47.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "admaddteacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admaddteacher.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\admaddteacher.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admaddteacher.cshtml",
+              "RelativeToolTip": "Views\\Shared\\admaddteacher.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:47.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "admcourse.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admcourse.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\admcourse.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admcourse.cshtml",
+              "RelativeToolTip": "Views\\Shared\\admcourse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:47.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admdash.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admdash.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\admdash.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admdash.cshtml",
+              "RelativeToolTip": "Views\\Shared\\admdash.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:47.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "adm.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\adm.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\adm.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\adm.css",
+              "RelativeToolTip": "wwwroot\\css\\adm.css",
+              "ViewState": "AQIAAP0CAAAAAAAAAAAkwBoDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T05:19:47.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "admeditteacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admeditteacher.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\admeditteacher.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admeditteacher.cshtml",
+              "RelativeToolTip": "Views\\Shared\\admeditteacher.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "admteacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admteacher.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\admteacher.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admteacher.cshtml",
+              "RelativeToolTip": "Views\\Shared\\admteacher.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "admstudent.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admstudent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\admstudent.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\admstudent.cshtml",
+              "RelativeToolTip": "Views\\Shared\\admstudent.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "update.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\update.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\update.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\update.cshtml",
+              "RelativeToolTip": "Views\\Shared\\update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "student.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\student.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\student.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\student.cshtml",
+              "RelativeToolTip": "Views\\Shared\\student.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "course.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\course.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\course.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\course.cshtml",
+              "RelativeToolTip": "Views\\Shared\\course.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "teacher.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\teacher.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\teacher.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\teacher.cshtml",
+              "RelativeToolTip": "Views\\Shared\\teacher.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "edituser.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\edituser.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\edituser.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\edituser.cshtml",
+              "RelativeToolTip": "Views\\Shared\\edituser.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "edit.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\edit.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\edit.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\edit.css",
+              "RelativeToolTip": "wwwroot\\css\\edit.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T05:19:49.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "signup.cshtml",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\signup.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\signup.cshtml",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Views\\Shared\\signup.cshtml",
+              "RelativeToolTip": "Views\\Shared\\signup.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T05:19:49.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "style-starter.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\style-starter.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\style-starter.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\style-starter.css",
+              "RelativeToolTip": "wwwroot\\css\\style-starter.css",
+              "ViewState": "AQIAAO0NAAAAAAAAAAArwPINAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T05:19:49.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "login.css",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\login.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\login.css",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\wwwroot\\css\\login.css",
+              "RelativeToolTip": "wwwroot\\css\\login.css",
+              "ViewState": "AQIAAHsAAAAAAAAAAAArwIoAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-10T05:19:49.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:19:49.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\admin\\OneDrive\\Ta\u0300i li\u00EA\u0323u\\GitHub\\Team\\SIMss\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "Models\\RegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:19:49.871Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 863,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

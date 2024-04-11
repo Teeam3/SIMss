@@ -180,5 +180,12 @@
     "Password": "1212121",
     "Email": "quyet@gmail.com",
     "Phone": "1213"
+  },
+  {
+    "UserId": 18,
+    "Name": "2121",
+    "Password": "1212121",
+    "Email": "quyet@gmail.com",
+    "Phone": "3131"
   }
 ]
